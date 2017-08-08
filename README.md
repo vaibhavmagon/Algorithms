@@ -1,6 +1,6 @@
 # Problem Solving using JavaScript!
 
-This repo contains files with various problems and algorithms solved in pure Javascript.
+This repo contains files with various problems and algorithms solved in pure Javascript (for the love of it) :-)
 
 Some of them are:
 
@@ -9,4 +9,4 @@ Some of them are:
 3. Coin Changing Problem
 4. Min Platforms Problem
 5. Dynamic Programming Problems
-6. Greedy Algorithm Probelms etc.
+6. Greedy Algorithm Problems etc.
