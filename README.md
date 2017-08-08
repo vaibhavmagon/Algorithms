@@ -1,4 +1,4 @@
-# Problem Solving usinf JavaScript
+# Problem Solving using JavaScript!
 
 This repo contains files with various problems and algorithms solved in pure Javascript.
 
