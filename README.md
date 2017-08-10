@@ -1,4 +1,4 @@
-# Problem Solving using JavaScript!
+# Algorithms / Problems solved using JavaScript!
 
 This repo contains files with various problems and algorithms solved in pure Javascript (for the love of it) :-)
 
